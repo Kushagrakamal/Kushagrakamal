@@ -1,38 +1,30 @@
-<div style="background-color: #f6f8fa; padding: 20px;">
-    <h1 style="color: #6f42c1; font-size: 36px; margin-bottom: 10px;">Hello, I'm Kushagra!</h1>
-    <p style="color: #586069; font-size: 18px;">I'm a front-end developer with experience in React.js, HTML, CSS, and JavaScript. I also have experience working with MySQL and MongoDB databases, and I'm familiar with Node.js.</p>
-    
-    <h2 style="color: #6f42c1; font-size: 24px; margin-top: 20px;">Skills</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <div style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">
-            <i class="fab fa-react"></i>
-            <span style="margin-left: 10px;">React.js</span>
-        </div>
-        <div style="background-color: #ff5722; color: white; padding: 10px 20px; border-radius: 5px;">
-            <i class="fab fa-html5"></i>
-            <span style="margin-left: 10px;">HTML</span>
-        </div>
-        <div style="background-color: #2196f3; color: white; padding: 10px 20px; border-radius: 5px;">
-            <i class="fab fa-css3-alt"></i>
-            <span style="margin-left: 10px;">CSS</span>
-        </div>
-        <div style="background-color: #f7df1e; color: black; padding: 10px 20px; border-radius: 5px;">
-            <i class="fab fa-js-square"></i>
-            <span style="margin-left: 10px;">JavaScript</span>
-        </div>
-        <div style="background-color: #00758f; color: white; padding: 10px 20px; border-radius: 5px;">
-            <i class="fas fa-database"></i>
-            <span style="margin-left: 10px;">MySQL</span>
-        </div>
-        <div style="background-color: #13aa52; color: white; padding: 10px 20px; border-radius: 5px;">
-            <i class="fas fa-database"></i>
-            <span style="margin-left: 10px;">MongoDB</span>
-        </div>
-        <div style="background-color: #6cc24a; color: white; padding: 10px 20px; border-radius: 5px;">
-            <i class="fab fa-node-js"></i>
-            <span style="margin-left: 10px;">Node.js</span>
-        </div>
-    </div>
-</div>
+## Hi there, I'm Kushagra kamal👋
+
+I'm a full-stack developer with experience in:
+
+<p align="center">
+  <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="ReactJS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" width="50" height="50"/>
+</p>
+
+I'm passionate about creating high-quality web applications that are user-friendly, fast, and responsive.
+
+### 🌱 I'm currently learning
+- WEB3
+
+### 🚀 Projects
+Here are some of the projects I have worked on:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/PmZ7ZZX9x1jC8ma4tM/giphy.gif" alt="Project 1" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/lOzQ2FikOBLb6/giphy.gif" alt="Project 2" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Project 3" width="300" height="200"/>
+</p>
+
 
 
