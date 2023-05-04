@@ -1,7 +1,7 @@
 
 # Hi, I'm Kushagra! 👋
 
-I'm a front-end developer with experience in ReactJS, HTML, CSS, and JavaScript. I'm passionate about creating beautiful and intuitive user interfaces and building responsive websites.
+I'm a full stack developer with experience in ReactJS, HTML, CSS, and JavaScript. I'm passionate about creating beautiful and intuitive user interfaces and building responsive websites.
 
 ## Skills 💻
 
