@@ -27,7 +27,7 @@ I'm a front-end developer with experience in ReactJS, HTML, CSS, and JavaScript.
     <p>mongodb</p>
   </div>
   <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/react.png"/>
+    <img src="https://img.icons8.com/color/48/000000/reactjs.png"/>
     <p>react</p>
   </div>
   <div class="skill">
@@ -35,7 +35,7 @@ I'm a front-end developer with experience in ReactJS, HTML, CSS, and JavaScript.
     <p>jQuery</p>
   </div>
   <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/node.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <p>node</p>
   </div>
 </div>
