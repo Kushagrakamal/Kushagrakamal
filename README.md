@@ -19,7 +19,7 @@ I'm passionate about creating high-quality web applications that are user-friend
 
 ### 🚀 Projects
 Here are some of the projects I have worked on:
-
+```html
 <a href="https://chatroom-67e21.web.app/" target="_blank">
   <button style="background-color: #4CAF50; border: none; color: white; padding: 16px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 25px; animation: pulse 2s infinite;">
     Click me to visit my project!
@@ -39,6 +39,7 @@ Here are some of the projects I have worked on:
     }
   }
 </style>
+
 
 
 
