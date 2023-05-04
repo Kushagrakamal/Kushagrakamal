@@ -1,89 +1,38 @@
-### Hi there 👋
-
-# Hi, I'm Kushagra! 👋
-
-I'm a front-end developer with experience in ReactJS, HTML, CSS, and JavaScript. I'm passionate about creating beautiful and intuitive user interfaces and building responsive websites.
-
-## Skills
-
-<div class="skills-container">
-  <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <p>ReactJS</p>
-  </div>
-  <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <p>HTML</p>
-  </div>
-  <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <p>CSS</p>
-  </div>
-  <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <p>JavaScript</p>
-  </div>
-  <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <p>Bootstrap</p>
-  </div>
-  <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
-    <p>Material UI</p>
-  </div>
-  <div class="skill">
-    <img src="https://img.icons8.com/ios-filled/48/000000/jquery.png"/>
-    <p>jQuery</p>
-  </div>
-  <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-    <p>SASS</p>
-  </div>
+<div style="background-color: #f6f8fa; padding: 20px;">
+    <h1 style="color: #6f42c1; font-size: 36px; margin-bottom: 10px;">Hello, I'm Kushagra!</h1>
+    <p style="color: #586069; font-size: 18px;">I'm a front-end developer with experience in React.js, HTML, CSS, and JavaScript. I also have experience working with MySQL and MongoDB databases, and I'm familiar with Node.js.</p>
+    
+    <h2 style="color: #6f42c1; font-size: 24px; margin-top: 20px;">Skills</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <div style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">
+            <i class="fab fa-react"></i>
+            <span style="margin-left: 10px;">React.js</span>
+        </div>
+        <div style="background-color: #ff5722; color: white; padding: 10px 20px; border-radius: 5px;">
+            <i class="fab fa-html5"></i>
+            <span style="margin-left: 10px;">HTML</span>
+        </div>
+        <div style="background-color: #2196f3; color: white; padding: 10px 20px; border-radius: 5px;">
+            <i class="fab fa-css3-alt"></i>
+            <span style="margin-left: 10px;">CSS</span>
+        </div>
+        <div style="background-color: #f7df1e; color: black; padding: 10px 20px; border-radius: 5px;">
+            <i class="fab fa-js-square"></i>
+            <span style="margin-left: 10px;">JavaScript</span>
+        </div>
+        <div style="background-color: #00758f; color: white; padding: 10px 20px; border-radius: 5px;">
+            <i class="fas fa-database"></i>
+            <span style="margin-left: 10px;">MySQL</span>
+        </div>
+        <div style="background-color: #13aa52; color: white; padding: 10px 20px; border-radius: 5px;">
+            <i class="fas fa-database"></i>
+            <span style="margin-left: 10px;">MongoDB</span>
+        </div>
+        <div style="background-color: #6cc24a; color: white; padding: 10px 20px; border-radius: 5px;">
+            <i class="fab fa-node-js"></i>
+            <span style="margin-left: 10px;">Node.js</span>
+        </div>
+    </div>
 </div>
-
-<style>
-.skills-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.skill {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 1rem;
-  padding: 1rem;
-  min-width: 100px;
-  min-height: 100px;
-  background-color: #ffffff;
-  border-radius: 10px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  animation-name: skill-animation;
-  animation-duration: 1s;
-  animation-iteration-count: infinite;
-}
-
-.skill:hover {
-  background-color: #f0f0f0;
-}
-
-@keyframes skill-animation {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.2); }
-  100% { transform: scale(1); }
-}
-</style>
-
-## Projects 
-
-Here are some of the projects I've worked on:
-
-- [E-commerce website](https://github.com/Kushagrakamal/e-commerce-website): A responsive e-commerce website built with ReactJS, Redux, and Firebase.
-- [Portfolio website](https://github.com/Kushagrakamal/portfolio-website): My personal portfolio website built with ReactJS, Material UI, and CSS.
-- [Weather app](https://github.com/Kushagrakamal/weather-app): A simple weather app built with HTML, CSS, and JavaScript.
-- [Todo app](https://github.com/Kushagrakamal/todo-app): A to-do list app built with ReactJS and Bootstrap.
-
 
 
