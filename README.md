@@ -27,8 +27,8 @@ I'm a front-end developer with experience in ReactJS, HTML, CSS, and JavaScript.
     <p>mongodb</p>
   </div>
   <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/reactJs.png"/>
-    <p>react</p>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <p>bootstrap</p>
   </div>
   <div class="skill">
     <img src="https://img.icons8.com/ios-filled/48/000000/jquery.png"/>
