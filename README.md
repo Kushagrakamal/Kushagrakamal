@@ -23,20 +23,20 @@ I'm a front-end developer with experience in ReactJS, HTML, CSS, and JavaScript.
     <p>JavaScript</p>
   </div>
   <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <p>Bootstrap</p>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    <p>mongodb</p>
   </div>
   <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
-    <p>Material UI</p>
+    <img src="https://img.icons8.com/color/48/000000/react.png"/>
+    <p>react</p>
   </div>
   <div class="skill">
     <img src="https://img.icons8.com/ios-filled/48/000000/jquery.png"/>
     <p>jQuery</p>
   </div>
   <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-    <p>SASS</p>
+    <img src="https://img.icons8.com/color/48/000000/node.png"/>
+    <p>node</p>
   </div>
 </div>
 
