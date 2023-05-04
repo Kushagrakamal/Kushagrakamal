@@ -1,79 +1,92 @@
-## Hi there, I'm Kushagra kamal👋
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Portfolio</title>
-	<style>
-		body {
-			background-color: #f1f1f1;
-			font-family: Arial, sans-serif;
-			text-align: center;
-		}
-		h1 {
-			color: #1e90ff;
-			margin-top: 50px;
-			font-size: 3rem;
-			text-shadow: 1px 1px #fff;
-		}
-		h2 {
-			color: #1e90ff;
-			margin-top: 30px;
-			font-size: 2rem;
-			text-shadow: 1px 1px #fff;
-		}
-		p {
-			color: #666;
-			font-size: 1.2rem;
-			margin-top: 10px;
-		}
-		ul {
-			list-style: none;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			margin-top: 30px;
-		}
-		li {
-			margin: 10px;
-		}
-		.icon {
-			font-size: 2.5rem;
-			color: #1e90ff;
-		}
-		.btn {
-			background-color: #1e90ff;
-			color: #fff;
-			padding: 10px 20px;
-			border-radius: 5px;
-			font-size: 1.2rem;
-			text-decoration: none;
-			margin-top: 30px;
-			display: inline-block;
-			transition: all 0.3s ease;
-		}
-		.btn:hover {
-			background-color: #fff;
-			color: #1e90ff;
-			border: 2px solid #1e90ff;
-		}
-	</style>
-</head>
-<body>
-	<h1>Hi, I'm [Your Name] 👋</h1>
-	<h2>Full-Stack Developer</h2>
-	<p>I am passionate about building scalable and maintainable web applications.</p>
-	<h2>Skills</h2>
-	<ul>
-		<li><i class="icon fab fa-node-js"></i> Node.js</li>
-		<li><i class="icon fab fa-react"></i> React.js</li>
-		<li><i class="icon fas fa-database"></i> MongoDB</li>
-		<li><i class="icon fab fa-html5"></i> HTML</li>
-		<li><i class="icon fab fa-css3-alt"></i> CSS</li>
-		<li><i class="icon fab fa-js"></i> JavaScript</li>
-	</ul>
-	<a href="https://chatroom-67e21.web.app/" class="btn">View My Project</a>
-</body>
-</html>
+
+# Hi, I'm Kushagra! 👋
+
+I'm a front-end developer with experience in ReactJS, HTML, CSS, and JavaScript. I'm passionate about creating beautiful and intuitive user interfaces and building responsive websites.
+
+## Skills 💻
+
+<div class="skills-container">
+  <div class="skill">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <p>ReactJS</p>
+  </div>
+  <div class="skill">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <p>HTML</p>
+  </div>
+  <div class="skill">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <p>CSS</p>
+  </div>
+  <div class="skill">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <p>JavaScript</p>
+  </div>
+  <div class="skill">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <p>Bootstrap</p>
+  </div>
+  <div class="skill">
+    <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+    <p>Material UI</p>
+  </div>
+  <div class="skill">
+    <img src="https://img.icons8.com/ios-filled/48/000000/jquery.png"/>
+    <p>jQuery</p>
+  </div>
+  <div class="skill">
+    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+    <p>SASS</p>
+  </div>
+</div>
+
+<style>
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+  padding: 1rem;
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  animation-name: skill-animation;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+.skill:hover {
+  background-color: #f0f0f0;
+}
+
+@keyframes skill-animation {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+</style>
+
+## Projects 🚀
+
+Here are some of the projects I've worked on:
+
+- [E-commerce website](https://github.com/Kushagrakamal/e-commerce-website): A responsive e-commerce website built with ReactJS, Redux, and Firebase.
+- [Portfolio website](https://github.com/Kushagrakamal/portfolio-website): My personal portfolio website built with ReactJS, Material UI, and CSS.
+- [Weather app](https://github.com/Kushagrakamal/weather-app): A simple weather app built with HTML, CSS, and JavaScript.
+- [Todo app](https://github.com/Kushagrakamal/todo-app): A to-do list app built with ReactJS and Bootstrap.
+
+## Contact me 📧
+
+If you
 
 
 
