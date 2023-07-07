@@ -27,7 +27,7 @@ I'm a full stack developer with experience in ReactJS, HTML, CSS, and JavaScript
     <p>mongodb</p>
   </div>
   <div class="skill">
-    <img src="https://material-ui.com/static/logo.png"/>
+    <img src="https://material-ui.com/static/logo.png" alt="Material UI" width="100"/>
     <p>Material  ui</p>
   </div>
   <div class="skill">
