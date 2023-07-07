@@ -27,8 +27,8 @@ I'm a full stack developer with experience in ReactJS, HTML, CSS, and JavaScript
     <p>mongodb</p>
   </div>
   <div class="skill">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <p>bootstrap</p>
+    <img src="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"/>
+    <p>Material ui</p>
   </div>
   <div class="skill">
     <img src="https://img.icons8.com/ios-filled/48/000000/jquery.png"/>
